@@ -14,7 +14,7 @@ Technical Stack ⚡
 Reach me throught 📫 
 ---
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jeremy.barbe.zion@gmail.com)](mailto:jeremy.barbe.zion@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jeremy.barbe.zion@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeremy.barbe.zion@gmail.com)](mailto:jeremy.barbe.zion@gmail.com)
 
 
 [![Jm-Zion GitHub stats](https://github-readme-stats.vercel.app/api?username=Jm-Zion&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
