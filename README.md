@@ -16,9 +16,11 @@ Reach me throught 📫
 
 [![Gmail Badge](https://img.shields.io/badge/-jeremy.barbe.zion@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeremy.barbe.zion@gmail.com)](mailto:jeremy.barbe.zion@gmail.com)
 
+---
 
 [![Jm-Zion GitHub stats](https://github-readme-stats.vercel.app/api?username=Jm-Zion&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jm-Zion&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 <!--
