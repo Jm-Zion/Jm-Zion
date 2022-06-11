@@ -1,7 +1,8 @@
-### Hi there 👋
+![Header](./gh-header.png)
+
+
 ---
-- 👋 Hi, I’m Jm-Zion
-- 🔭 I’m currently working on React-Native and flutter projects
+- 🔭 I’m currently working on React-Native and Flutter projects
 - 🌱 I’m currently learning Golang
 
 Technical Stack ⚡
@@ -22,6 +23,8 @@ Reach me throught 📫
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jm-Zion&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jm-Zion&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **Jm-Zion/Jm-Zion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
